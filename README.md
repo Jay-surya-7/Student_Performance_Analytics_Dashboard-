@@ -45,11 +45,12 @@ This is a **Power BI dashboard** built to explore and understand student perform
 
 ---
 
-## 🖼️ Dashboard Preview
 
-Include screenshots for quick visual context:
 
 ```md
-![Overview](/Student_Performance_Analytics_Dashboard-/screenshots/overview.png)
+## 🖼️ Dashboard Preview
+
+![Overview](screenshots/overview.png)
 ![Gender Marks](screenshots/gender_marks.png)
 ![Pass Trend](screenshots/pass_trend.png)
+
