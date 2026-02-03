@@ -50,6 +50,6 @@ This is a **Power BI dashboard** built to explore and understand student perform
 Include screenshots for quick visual context:
 
 ```md
-![Overview](screenshots/overview.PNG)
-![Gender Marks](screenshots/gender_marks.PNG)
-![Pass Trend](screenshots/pass_trend.PNG)
+![Overview](screenshots/overview.png)
+![Gender Marks](screenshots/gender_marks.png)
+![Pass Trend](screenshots/pass_trend.png)
