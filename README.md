@@ -2,69 +2,52 @@
 
 ## 📌 Project Overview
 
-This project is a **Power BI dashboard** created to analyze student performance data and present key academic insights in an interactive and visual format. The dashboard focuses on understanding overall performance, comparing results across different groups, and tracking pass percentage trends over time.
-
-It is designed as a **portfolio project** to demonstrate skills in data cleaning, data modeling, and dashboard development using Power BI.
+This is a **Power BI dashboard** built to explore and understand student performance data with interactive visuals. It highlights average marks, comparisons across genders, pass/fail distribution, and trend analysis over several years.
 
 ---
 
 ## 📁 Dataset
 
-- The dataset contains student performance records, including:
-  - Marks / scores
-  - Subject-wise performance
-  - Gender
-  - Pass/Fail status
-  - Year-wise results
-- Data cleaning and transformation are performed using **Power Query** in Power BI.
-- The dataset is embedded inside the `.pbix` file and is not uploaded separately.
-- This is a sample/academic dataset used for learning and portfolio purposes.
+- Includes student scores, subject averages, gender information, pass/fail status, and year-wise results.
+- Cleaned and transformed using Power Query in Power BI.
+- The dataset is **embedded within the `.pbix` file**.
+- Used for academic/portfolio purposes.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 - **Power BI Desktop**
-- **Power Query** (Data cleaning & transformation)
+- **Power Query** (for data cleaning)
 - **Data Modeling**
-- **DAX** (for calculated measures, if applicable)
-- **Data Visualization**
+- **DAX** (for calculated measures, if used)
+- **Interactive Visualizations**
 
 ---
 
 ## 📊 Dashboard Features
 
-The dashboard includes the following key visuals and components:
+- **Summary View:** Shows overall average marks and pass percentage.
+- **Subject vs Overall Average:** Compares subject averages with overall averages.
+- **Average Marks by Gender:** Bar chart showing gender-based performance.
+- **Pass vs Fail Distribution:** Donut chart of pass/fail counts.
+- **Pass Percentage by Year:** Line chart displaying trend from 2018 to 2025.
+- **Interactive Filters:** Allows filtering by available dimensions.
 
-- **Summary View**
-  - Shows total students, overall average marks, and overall pass percentage.
+---
 
-- **Subject Average vs Overall Average**
-  - A comparison chart showing subject-wise average marks against the overall average marks.
+## 📈 Key Insights
 
-- **Average Marks by Gender**
-  - Bar chart comparing average marks for:
-    - Male
-    - Female
-    - Non-Binary
-
-- **Pass vs Fail Distribution**
-  - Donut chart showing the proportion of students who:
-    - Passed (~57%)
-    - Failed (~43%)
-
-- **Pass Percentage by Year**
-  - Line chart showing the trend of pass percentage from **2018 to 2025**.
-  - Highlights year-to-year fluctuations in student results.
-
-- **Interactive Filters**
-  - Allows users to explore the data dynamically using slicers/filters available in the report.
+- Overall pass percentage is approximately **57%**, with **43%** failing.
+- Average marks are similar across genders.
+- Pass percentage trend fluctuates from 2018 through 2025.
+- Visual comparison helps identify higher and lower performing subjects.
 
 ---
 
 ## 🖼️ Dashboard Preview
 
-Add your screenshots in a folder called `screenshots/` and display them here:
+Include screenshots for quick visual context:
 
 ```md
 ![Overview](screenshots/overview.png)
